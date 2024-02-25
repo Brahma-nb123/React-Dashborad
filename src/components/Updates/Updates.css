@@ -1,0 +1,21 @@
+.Updates{
+     width: 85%;
+     background: #fff;
+     border-radius: .7rem;
+     padding: 1rem;
+     gap: 1rem;
+     display: flex;
+     font-display: column;
+     font-size: 13px;
+}
+.noti-name{
+margin-bottom: 1rem;
+}
+.Update{-moz-animation: ;
+    display: flex;
+    gap: 0.5rem;
+}
+.Update>img{
+    width: 3.2rem;
+    height: 3.2rem;
+}
